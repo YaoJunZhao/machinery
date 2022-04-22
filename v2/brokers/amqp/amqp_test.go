@@ -3,10 +3,10 @@ package amqp_test
 import (
 	"testing"
 
-	"github.com/RichardKnop/machinery/v2/brokers/amqp"
-	"github.com/RichardKnop/machinery/v2/brokers/iface"
-	"github.com/RichardKnop/machinery/v2/config"
-	"github.com/RichardKnop/machinery/v2/tasks"
+	"github.com/YaoJunZhao/machinery/v2/brokers/amqp"
+	"github.com/YaoJunZhao/machinery/v2/brokers/iface"
+	"github.com/YaoJunZhao/machinery/v2/config"
+	"github.com/YaoJunZhao/machinery/v2/tasks"
 	"github.com/stretchr/testify/assert"
 )
 

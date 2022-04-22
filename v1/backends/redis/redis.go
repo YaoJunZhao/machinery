@@ -11,11 +11,11 @@ import (
 	redsyncredis "github.com/go-redsync/redsync/v4/redis/redigo"
 	"github.com/gomodule/redigo/redis"
 
-	"github.com/RichardKnop/machinery/v1/backends/iface"
-	"github.com/RichardKnop/machinery/v1/common"
-	"github.com/RichardKnop/machinery/v1/config"
-	"github.com/RichardKnop/machinery/v1/log"
-	"github.com/RichardKnop/machinery/v1/tasks"
+	"github.com/YaoJunZhao/machinery/v1/backends/iface"
+	"github.com/YaoJunZhao/machinery/v1/common"
+	"github.com/YaoJunZhao/machinery/v1/config"
+	"github.com/YaoJunZhao/machinery/v1/log"
+	"github.com/YaoJunZhao/machinery/v1/tasks"
 )
 
 // Backend represents a Redis result backend
